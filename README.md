@@ -1,4 +1,4 @@
-# WildlifeMonitoring
+# wotwa(watch out the wild animals)
 We started this project to help save the wildlife and human intervention and help the concerned officials and organization to track the wildlife and human activities that is found suspicious. This model can be used in surveillance cameras to detect the wildlife activities which is more easy and safe than sending rangers to patrol. General Public living near forests can be benefited from this project as the get to know more about the wildlife mobility near them. However, we are still learning and applying more efficient way to do this. So, this is only a simple demonstration.
 
 ![Screenshot (60)](https://github.com/a-b365/WildlifeMonitoring/assets/63753115/61c8b926-3351-475a-a19a-b82edd33b2dd)
